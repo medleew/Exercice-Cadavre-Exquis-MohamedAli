@@ -7,4 +7,6 @@ Un canard dans unu marre
 il ne sait pas nager
 Mais il sait voler
 
-<3
+Mais il s'est pris un arbre.
+S'est cassé une aile
+Et ne sait plus voler 
