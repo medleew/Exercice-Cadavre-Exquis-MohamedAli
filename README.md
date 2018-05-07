@@ -1,7 +1,6 @@
 # Exercice-Cadavre-Exquis-MohamedAli
 
-## A true story 
----------------
+## A true story
 
 Un canard dans unu marre 
 il ne sait pas nager 
