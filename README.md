@@ -2,13 +2,13 @@
 
 ## A true story
 
-Un canard dans unu marre
+_Un canard dans une marre_
 il ne sait pas nager
-Mais il sait voler
+_Mais il sait voler_
 
 Quand il vole, il chante
 Quand il nage, il se noie
-
+ 
 Mais il s'est pris un arbre.
 S'est cassé une aile
 Et ne sait plus voler
